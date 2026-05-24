@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/samroska/github/genre_classification/mlruns/0/4258452b5bca4f28bcd0b141d15be364/artifacts
+end_time: 1779591798976
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4258452b5bca4f28bcd0b141d15be364
+run_name: intrigued-ox-98
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779591777599
+status: 3
+tags: []
+user_id: samroska

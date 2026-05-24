@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/samroska/github/genre_classification/mlruns/0/20cd2dcc425d4c53b55ccd4a5afcf5b5/artifacts
+end_time: 1779591801586
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 20cd2dcc425d4c53b55ccd4a5afcf5b5
+run_name: placid-cub-593
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779591740689
+status: 4
+tags: []
+user_id: samroska

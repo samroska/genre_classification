@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/samroska/github/genre_classification/mlruns/0/66d0f97f7d5546f69ab045fde770ccd2/artifacts
+end_time: 1779591624392
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 66d0f97f7d5546f69ab045fde770ccd2
+run_name: painted-gull-863
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779591577557
+status: 3
+tags: []
+user_id: samroska

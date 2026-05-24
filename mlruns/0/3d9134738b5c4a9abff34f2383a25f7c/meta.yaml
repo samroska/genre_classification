@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/samroska/github/genre_classification/mlruns/0/3d9134738b5c4a9abff34f2383a25f7c/artifacts
+end_time: 1779591715887
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3d9134738b5c4a9abff34f2383a25f7c
+run_name: rogue-shark-241
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779591489073
+status: 4
+tags: []
+user_id: samroska

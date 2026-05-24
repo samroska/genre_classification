@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/samroska/github/genre_classification/mlruns/0/17d725ca98044cff8a6e0499abcd0eec/artifacts
+end_time: 1779591577514
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 17d725ca98044cff8a6e0499abcd0eec
+run_name: bright-carp-36
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779591543007
+status: 3
+tags: []
+user_id: samroska

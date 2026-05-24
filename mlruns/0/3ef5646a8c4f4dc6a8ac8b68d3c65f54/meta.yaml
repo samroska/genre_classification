@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/samroska/github/genre_classification/mlruns/0/3ef5646a8c4f4dc6a8ac8b68d3c65f54/artifacts
+end_time: 1779591683070
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3ef5646a8c4f4dc6a8ac8b68d3c65f54
+run_name: persistent-hound-440
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779591624427
+status: 3
+tags: []
+user_id: samroska

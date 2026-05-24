@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/samroska/github/genre_classification/mlruns/0/49260dfc236b4d84af5a9a1b77c7f678/artifacts
+end_time: 1779591514866
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 49260dfc236b4d84af5a9a1b77c7f678
+run_name: adaptable-newt-203
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779591490590
+status: 3
+tags: []
+user_id: samroska

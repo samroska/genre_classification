@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/samroska/github/genre_classification/mlruns/0/c2f248db9e0548aab81a3cd7359d6474/artifacts
+end_time: 1779592036284
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c2f248db9e0548aab81a3cd7359d6474
+run_name: enthused-koi-292
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779591977556
+status: 3
+tags: []
+user_id: samroska

@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/samroska/github/genre_classification/mlruns/0/a76de1acf4034256b9013d6ffa3817d8/artifacts
+end_time: 1779591991082
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a76de1acf4034256b9013d6ffa3817d8
+run_name: defiant-mare-316
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779591985448
+status: 3
+tags: []
+user_id: samroska

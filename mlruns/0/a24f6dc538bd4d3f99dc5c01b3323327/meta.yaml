@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/samroska/github/genre_classification/mlruns/0/a24f6dc538bd4d3f99dc5c01b3323327/artifacts
+end_time: 1779591542975
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a24f6dc538bd4d3f99dc5c01b3323327
+run_name: indecisive-rat-448
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779591514898
+status: 3
+tags: []
+user_id: samroska

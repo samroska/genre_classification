@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/samroska/github/genre_classification/mlruns/0/0281b3c13f514f35b4c8459f99fcf7f6/artifacts
+end_time: 1779592027338
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0281b3c13f514f35b4c8459f99fcf7f6
+run_name: fortunate-bass-403
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779592006066
+status: 3
+tags: []
+user_id: samroska

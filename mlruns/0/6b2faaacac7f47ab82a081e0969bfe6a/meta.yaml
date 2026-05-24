@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/samroska/github/genre_classification/mlruns/0/6b2faaacac7f47ab82a081e0969bfe6a/artifacts
+end_time: 1779592006035
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6b2faaacac7f47ab82a081e0969bfe6a
+run_name: merciful-bear-170
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779591998694
+status: 3
+tags: []
+user_id: samroska

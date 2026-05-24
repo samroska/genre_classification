@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/samroska/github/genre_classification/mlruns/0/60df0d94a69942479b6aca9cf4051969/artifacts
+end_time: 1779591777565
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 60df0d94a69942479b6aca9cf4051969
+run_name: worried-skunk-494
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779591765948
+status: 3
+tags: []
+user_id: samroska

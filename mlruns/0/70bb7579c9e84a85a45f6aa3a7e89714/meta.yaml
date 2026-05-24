@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/samroska/github/genre_classification/mlruns/0/70bb7579c9e84a85a45f6aa3a7e89714/artifacts
+end_time: 1779591765916
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 70bb7579c9e84a85a45f6aa3a7e89714
+run_name: popular-smelt-892
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779591758784
+status: 3
+tags: []
+user_id: samroska

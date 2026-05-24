@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/samroska/github/genre_classification/mlruns/0/bb70f0e5f33741d0af378e94960d4ba3/artifacts
+end_time: 1779591998661
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bb70f0e5f33741d0af378e94960d4ba3
+run_name: nimble-fish-449
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779591991113
+status: 3
+tags: []
+user_id: samroska

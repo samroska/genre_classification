@@ -1,0 +1,43 @@
+{
+  "os": "macOS-26.3.1-arm64-arm-64bit-Mach-O",
+  "python": "CPython 3.13.3",
+  "startedAt": "2026-05-24T03:01:03.792545Z",
+  "args": [
+    "--train_data",
+    "data_train.csv:latest",
+    "--model_config",
+    "/Users/samroska/github/genre_classification/outputs/2026-05-23/19-58-10/random_forest_config.yml",
+    "--export_artifact",
+    "model_export",
+    "--random_seed",
+    "42",
+    "--val_size",
+    "0.3",
+    "--stratify",
+    "genre"
+  ],
+  "program": "/Users/samroska/github/genre_classification/random_forest/run.py",
+  "codePath": "random_forest/run.py",
+  "codePathLocal": "run.py",
+  "git": {
+    "remote": "git@github.com:samroska/genre_classification.git",
+    "commit": "73a579102f75a67b4d6265a7de6ab5b2705cce74"
+  },
+  "email": "yearofnoexcuses@gmail.com",
+  "root": "/Users/samroska/github/genre_classification/random_forest",
+  "host": "pyrite.local",
+  "executable": "/Users/samroska/github/genre_classification/.venv/bin/python",
+  "cpu_count": 8,
+  "cpu_count_logical": 8,
+  "disk": {
+    "/": {
+      "total": "494384795648",
+      "used": "240740884480"
+    }
+  },
+  "memory": {
+    "total": "17179869184"
+  },
+  "apple": {},
+  "writerId": "j7jihmmkzfgodq1vv31ef3qlzcjd9atj"
+}

@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/samroska/github/genre_classification/mlruns/0/ca8bc1f9c64043ec8d9bae15f72d5b8f/artifacts
+end_time: 1779591715744
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ca8bc1f9c64043ec8d9bae15f72d5b8f
+run_name: unleashed-rat-151
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779591683099
+status: 4
+tags: []
+user_id: samroska

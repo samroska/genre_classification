@@ -1,0 +1,46 @@
+_wandb:
+    value:
+        cli_version: 0.24.0
+        e:
+            nwcrrj7epjy88cj32r4u1ghm93um89dz:
+                apple: {}
+                args:
+                    - --file_url
+                    - https://github.com/udacity/nd0821-c2-build-model-workflow-exercises/blob/master/lesson-2-data-exploration-and-preparation/exercises/exercise_4/starter/genres_mod.parquet?raw=true
+                    - --artifact_name
+                    - raw_data.parquet
+                    - --artifact_type
+                    - raw_data
+                    - --artifact_description
+                    - Data as downloaded
+                codePath: download/download_data.py
+                codePathLocal: download_data.py
+                cpu_count: 8
+                cpu_count_logical: 8
+                disk:
+                    /:
+                        total: "494384795648"
+                        used: "239747776512"
+                email: yearofnoexcuses@gmail.com
+                executable: /Users/samroska/github/genre_classification/.venv/bin/python
+                git:
+                    commit: 73a579102f75a67b4d6265a7de6ab5b2705cce74
+                    remote: git@github.com:samroska/genre_classification.git
+                host: pyrite.local
+                memory:
+                    total: "17179869184"
+                os: macOS-26.3.1-arm64-arm-64bit-Mach-O
+                program: /Users/samroska/github/genre_classification/download/download_data.py
+                python: CPython 3.13.3
+                root: /Users/samroska/github/genre_classification/download
+                startedAt: "2026-05-24T02:58:26.181552Z"
+                writerId: nwcrrj7epjy88cj32r4u1ghm93um89dz
+        m: []
+        python_version: 3.13.3
+        t:
+            "3":
+                - 2
+            "4": 3.13.3
+            "5": 0.24.0
+            "12": 0.24.0
+            "13": darwin-arm64

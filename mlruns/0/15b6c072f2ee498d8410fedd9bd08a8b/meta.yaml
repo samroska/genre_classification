@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/samroska/github/genre_classification/mlruns/0/15b6c072f2ee498d8410fedd9bd08a8b/artifacts
+end_time: 1779591296879
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 15b6c072f2ee498d8410fedd9bd08a8b
+run_name: spiffy-doe-439
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779591261160
+status: 4
+tags: []
+user_id: samroska

@@ -1,0 +1,48 @@
+_wandb:
+    value:
+        cli_version: 0.24.0
+        e:
+            8ov18h1b4yp3lti4zdkrgfd7yvvuy60j:
+                apple: {}
+                args:
+                    - -s
+                    - -vv
+                    - .
+                    - --reference_artifact
+                    - exercise_14/preprocessed_data.csv:latest
+                    - --sample_artifact
+                    - preprocessed_data.csv:latest
+                    - --ks_alpha
+                    - "0.05"
+                codePath: .venv/bin/pytest
+                cpu_count: 8
+                cpu_count_logical: 8
+                disk:
+                    /:
+                        total: "494384795648"
+                        used: "241046093824"
+                email: yearofnoexcuses@gmail.com
+                executable: /Users/samroska/github/genre_classification/.venv/bin/python3.13
+                git:
+                    commit: 73a579102f75a67b4d6265a7de6ab5b2705cce74
+                    remote: git@github.com:samroska/genre_classification.git
+                host: pyrite.local
+                memory:
+                    total: "17179869184"
+                os: macOS-26.3.1-arm64-arm-64bit-Mach-O
+                program: /Users/samroska/github/genre_classification/.venv/bin/pytest
+                python: CPython 3.13.3
+                root: /Users/samroska/github/genre_classification/check_data
+                startedAt: "2026-05-24T03:06:33.290512Z"
+                writerId: 8ov18h1b4yp3lti4zdkrgfd7yvvuy60j
+        m: []
+        python_version: 3.13.3
+        t:
+            "1":
+                - 50
+            "2":
+                - 50
+            "4": 3.13.3
+            "5": 0.24.0
+            "12": 0.24.0
+            "13": darwin-arm64

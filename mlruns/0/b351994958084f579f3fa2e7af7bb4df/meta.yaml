@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/samroska/github/genre_classification/mlruns/0/b351994958084f579f3fa2e7af7bb4df/artifacts
+end_time: 1779591749571
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b351994958084f579f3fa2e7af7bb4df
+run_name: adaptable-tern-59
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779591742222
+status: 3
+tags: []
+user_id: samroska
